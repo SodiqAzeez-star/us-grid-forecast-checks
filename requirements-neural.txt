@@ -1,0 +1,11 @@
+# Extra packages for step 7 (geopandas, libpysal, esda) and step 8 (torch, torch-geometric).
+# Install after requirements.txt. The CPU build of torch is about 200 MB; with a GPU, install the build for your CUDA version from pytorch.org instead.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.15.0
+torch-geometric==2.8.1
+geopandas==1.2.0
+shapely==2.2.0
+pyproj==3.8.0
+pyogrio==0.13.0
+libpysal==4.15.1
+esda==2.10.0

@@ -1,0 +1,12 @@
+year,weather_normalized_mw,unrestricted_actual_mw,source_url,table
+2014,33291,29782,https://www.nyiso.com/documents/20142/2226333/2024-Gold-Book-Public.pdf,"2024 Gold Book PDF page 28, Table I-3a NYCA; weather-normalised from 2025 Gold Book PDF page 72, Table I-19"
+2015,33226,31138,https://www.nysrc.org/wp-content/uploads/2025/11/I.3-R2-Load-and-Capacity-Data-Gold-Book-2025.pdf,"2025 Gold Book PDF page 28, Table I-3a NYCA; weather-normalised from PDF page 72, Table I-19"
+2016,33225,32076,https://www.nysrc.org/wp-content/uploads/2025/11/I.3-R2-Load-and-Capacity-Data-Gold-Book-2025.pdf,"2025 Gold Book PDF page 28, Table I-3a NYCA; weather-normalised from PDF page 72, Table I-19"
+2017,32914,29699,https://www.nysrc.org/wp-content/uploads/2025/11/I.3-R2-Load-and-Capacity-Data-Gold-Book-2025.pdf,"2025 Gold Book PDF page 28, Table I-3a NYCA; weather-normalised from PDF page 72, Table I-19"
+2018,32512,31861,https://www.nysrc.org/wp-content/uploads/2025/11/I.3-R2-Load-and-Capacity-Data-Gold-Book-2025.pdf,"2025 Gold Book PDF page 28, Table I-3a NYCA; weather-normalised from PDF page 72, Table I-19"
+2019,32357,30397,https://www.nysrc.org/wp-content/uploads/2025/11/I.3-R2-Load-and-Capacity-Data-Gold-Book-2025.pdf,"2025 Gold Book PDF page 28, Table I-3a NYCA; weather-normalised from PDF page 72, Table I-19"
+2020,31723,30660,https://www.nysrc.org/wp-content/uploads/2025/11/I.3-R2-Load-and-Capacity-Data-Gold-Book-2025.pdf,"2025 Gold Book PDF page 28, Table I-3a NYCA; weather-normalised from PDF page 72, Table I-19"
+2021,31528,30919,https://www.nysrc.org/wp-content/uploads/2025/11/I.3-R2-Load-and-Capacity-Data-Gold-Book-2025.pdf,"2025 Gold Book PDF page 28, Table I-3a NYCA; weather-normalised from PDF page 72, Table I-19"
+2022,31709,30505,https://www.nysrc.org/wp-content/uploads/2025/11/I.3-R2-Load-and-Capacity-Data-Gold-Book-2025.pdf,"2025 Gold Book PDF page 28, Table I-3a NYCA; weather-normalised from PDF page 72, Table I-19"
+2023,31288,30206,https://www.nysrc.org/wp-content/uploads/2025/11/I.3-R2-Load-and-Capacity-Data-Gold-Book-2025.pdf,"2025 Gold Book PDF page 28, Table I-3a NYCA; weather-normalised from PDF page 72, Table I-19"
+2024,31264,28990,https://www.nysrc.org/wp-content/uploads/2025/11/I.3-R2-Load-and-Capacity-Data-Gold-Book-2025.pdf,"2025 Gold Book PDF page 28, Table I-3a NYCA; weather-normalised from PDF page 72, Table I-19"
