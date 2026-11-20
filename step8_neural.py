@@ -43,6 +43,7 @@ UA = {'User-Agent': 'runkit-eia930/1.0 (research rerun)'}
 
 def np_state_out():
     """NumPy's random state as plain values and a tensor, so the checkpoint loads with weights_only=True."""
+    import torch
     name, keys, pos, has_gauss, cached = np.random.get_state()
     return [name, torch.from_numpy(keys.astype(np.int64)), int(pos), int(has_gauss), float(cached)]
 
