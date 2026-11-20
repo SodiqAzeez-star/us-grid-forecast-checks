@@ -1,0 +1,61 @@
+{
+ "test_start": "2025-11-01",
+ "test_end": "2026-10-31",
+ "scored_hours": 43483,
+ "data_first_utc": "2023-11-01 05:00:00",
+ "data_last_utc": "2026-11-01 05:00:00",
+ "train_end": "2025-07-31",
+ "validation": "2025-08-01 to 2025-10-31",
+ "threads": 4,
+ "models": {
+  "no weather": {
+   "best_iteration": 288,
+   "fit_seconds": 2.2,
+   "features": [
+    "lag48",
+    "lag72",
+    "lag168",
+    "lag336",
+    "last",
+    "mean24",
+    "mean168",
+    "horizon",
+    "hour",
+    "op",
+    "cal0",
+    "cal1",
+    "cal2",
+    "cal3",
+    "cal4"
+   ]
+  },
+  "temperature forecast": {
+   "best_iteration": 1320,
+   "fit_seconds": 8.6,
+   "features": [
+    "lag48",
+    "lag72",
+    "lag168",
+    "lag336",
+    "last",
+    "mean24",
+    "mean168",
+    "horizon",
+    "hour",
+    "op",
+    "cal0",
+    "cal1",
+    "cal2",
+    "cal3",
+    "cal4",
+    "t_lag48",
+    "t_lag168",
+    "t_last",
+    "t_mean24",
+    "t_mean168",
+    "t_fc"
+   ]
+  }
+ },
+ "ciso_note": "CISO is not comparable: its stored forecast runs far below its reported demand at midday for a reason not yet confirmed"
+}

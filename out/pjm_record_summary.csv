@@ -1,0 +1,7 @@
+horizon_years,actual,n,mean_error_pct,mean_abs_error_pct,min_pct,max_pct
+1,weather-normalised peak,8,0.94,1.24,-0.85,2.83
+1,unrestricted (as-metered) peak,8,0.71,2.26,-4.49,4.54
+3,weather-normalised peak,6,1.52,2.02,-1.52,4.42
+3,unrestricted (as-metered) peak,6,1.58,3.73,-5.94,6.49
+5,weather-normalised peak,4,1.75,1.81,-0.12,2.97
+5,unrestricted (as-metered) peak,4,1.23,3.53,-4.6,4.65

@@ -1,0 +1,4 @@
+measure,n,morans_I,expected_if_no_pattern
+Tract means over the training days,1,0.3868,-0.0011
+"Each training day, median",1034,0.1407,-0.0011
+"Each training day after removing the tract mean, median",1034,0.0184,-0.0011

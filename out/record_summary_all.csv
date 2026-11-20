@@ -1,0 +1,13 @@
+series,horizon_years,n,mean_error_pct,min_pct,max_pct,caveat
+PJM from 2017,1,8,0.94,-0.85,2.83,Reports 2017 to 2025.
+PJM from 2017,3,6,1.52,-1.52,4.42,Reports 2017 to 2025.
+PJM from 2017,5,4,1.75,-0.12,2.97,Reports 2017 to 2025.
+PJM from 2014,1,11,2.24,-0.85,8.4,"Reports 2014 to 2025. PJM's weather-normalised actual changed over time (its 2015 report gives 156,140 MW for 2014, its 2026 workbook 148,880 MW, the value used); the 2014 and 2015 reports forecast before load management and efficiency and the 2016 report after solar."
+PJM from 2014,3,9,3.53,-1.52,9.78,"Reports 2014 to 2025. PJM's weather-normalised actual changed over time (its 2015 report gives 156,140 MW for 2014, its 2026 workbook 148,880 MW, the value used); the 2014 and 2015 reports forecast before load management and efficiency and the 2016 report after solar."
+PJM from 2014,5,7,5.19,-0.12,11.95,"Reports 2014 to 2025. PJM's weather-normalised actual changed over time (its 2015 report gives 156,140 MW for 2014, its 2026 workbook 148,880 MW, the value used); the 2014 and 2015 reports forecast before load management and efficiency and the 2016 report after solar."
+NYISO,1,7,1.87,1.24,3.25,"Gold Books 2014 to 2024; the 2018, 2020 and 2022 books were not usable."
+NYISO,3,6,3.22,0.83,5.63,"Gold Books 2014 to 2024; the 2018, 2020 and 2022 books were not usable."
+NYISO,5,5,5.83,0.83,9.57,"Gold Books 2014 to 2024; the 2018, 2020 and 2022 books were not usable."
+ISO-NE,1,12,1.35,-2.41,4.87,CELT reports 2013 to 2025; the net-load definition changes in the 2025 report.
+ISO-NE,3,10,3.39,-2.41,6.98,CELT reports 2013 to 2025; the net-load definition changes in the 2025 report.
+ISO-NE,5,8,6.01,-2.1,12.57,CELT reports 2013 to 2025; the net-load definition changes in the 2025 report.

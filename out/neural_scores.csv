@@ -1,0 +1,3 @@
+model,seed,PJM,ERCO,MISO,NYIS,CISO,pooled,pooled_excl_CISO
+LSTM,0,5.47,5.3,3.97,6.38,6.07,5.44,5.28
+Graph attention BiLSTM (interchange links),0,6.23,5.91,4.61,7.45,6.41,6.12,6.05

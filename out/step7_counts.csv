@@ -1,0 +1,9 @@
+quantity,value
+tracts in the boundary file,878
+crimes dated 2021-01-01 to 2023-12-31 (midnight bound),713809
+crimes kept after the join to a tract,696263
+days in the panel,1095
+test predictions (tracts x December days),27218
+tracts with at least one crime,873
+crimes on 2023-12-30,740
+crimes on 2023-12-31,30

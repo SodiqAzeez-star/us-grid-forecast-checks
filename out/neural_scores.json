@@ -1,0 +1,29 @@
+{
+ "test_start": "2025-11-01",
+ "test_end": "2026-10-31",
+ "ciso_note": "CISO is not comparable: its forecast is a different quantity from its reported demand",
+ "runs": [
+  {
+   "seed": 0,
+   "scored_hours": 43483,
+   "epochs_run": 40,
+   "best_epoch": 30,
+   "best_validation_error": 4.282,
+   "threads": 8,
+   "device": "cpu",
+   "seconds_per_epoch": 7.7,
+   "model": "LSTM"
+  },
+  {
+   "seed": 0,
+   "scored_hours": 43483,
+   "epochs_run": 33,
+   "best_epoch": 23,
+   "best_validation_error": 4.76,
+   "threads": 8,
+   "device": "cpu",
+   "seconds_per_epoch": 149.1,
+   "model": "Graph attention BiLSTM (interchange links)"
+  }
+ ]
+}
