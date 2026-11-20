@@ -1,0 +1,8 @@
+raw/
+venv/
+.venv/
+__pycache__/
+*.pyc
+out/neural/
+.DS_Store
+Thumbs.db
