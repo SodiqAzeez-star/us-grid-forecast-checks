@@ -1,0 +1,11 @@
+{
+  "title": "US grid forecast checks: accuracy of published electricity demand forecasts",
+  "description": "Reproducible checks of United States electricity demand forecasts on public data: a timing audit of every balancing authority's day-ahead forecast in Form EIA-930, a test-year score of a simple model against five operators' own forecasts, PJM, NYISO and ISO New England long-term forecasts against the peaks that followed, the value of one point of PJM forecast error, and a results page. Temperature data by Open-Meteo.com, CC BY 4.0.",
+  "creators": [{"name": "Azeez, Sodiq Olatunji"}],
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "version": "1.0.0",
+  "language": "eng",
+  "keywords": ["load forecasting", "electricity demand", "EIA-930", "PJM", "forecast evaluation", "benchmark", "LightGBM"]
+}
